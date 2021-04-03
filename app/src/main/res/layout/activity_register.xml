@@ -46,14 +46,14 @@
             app:srcCompat="@drawable/group_12" />
 
         <TextView
-            android:id="@+id/tv_login"
+            android:id="@+id/tv_register"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:textSize="20sp"
             android:textColor="@color/white"
             android:textFontWeight="@android:integer/config_longAnimTime"
-            android:text="@string/login" />
+            android:text="@string/register" />
 
         <EditText
             android:id="@+id/et_email"
@@ -81,7 +81,7 @@
             style="@style/etLogin"/>
 
         <TextView
-            android:id="@+id/tv_createaccount"
+            android:id="@+id/tv_have_account"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
@@ -89,7 +89,7 @@
             android:gravity="center"
             android:textColor="@color/white"
             android:textFontWeight="@android:integer/config_longAnimTime"
-            android:text="@string/create_account" />
+            android:text="@string/have_an_account" />
 
     </LinearLayout>
 
