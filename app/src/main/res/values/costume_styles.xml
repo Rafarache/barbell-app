@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="circle">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="etLogin">
+        <item name="backgroundTint">#AA1D13</item>
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="android:textColor">#AA1D13</item>
+    </style>
+
+</resources>
