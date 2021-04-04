@@ -6,9 +6,9 @@
     </style>
 
     <style name="etLogin">
-        <item name="backgroundTint">#AA1D13</item>
+        <item name="backgroundTint">@color/main_red</item>
         <item name="android:textCursorDrawable">@null</item>
-        <item name="android:textColor">#AA1D13</item>
+        <item name="android:textColor">@color/main_red</item>
     </style>
 
 </resources>
